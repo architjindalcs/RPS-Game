@@ -1,0 +1,55 @@
+.chimg
+{
+   
+    height: 300px;
+}
+.coimg
+{
+   margin-top: 100px;
+    height: 400px;
+    width: 300px;
+}
+.options img
+{
+    height: 85px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+body{
+    background: url("ring1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.changeRing
+{
+    background: url("ring.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.player img
+{
+    height: 300px;
+    width: 300px;
+}
+.computer img
+{
+    height: 300px;
+    width: 300px;
+}
+.scorep
+{
+    height: 200px;
+    margin-top: 50px;
+    text-align: center;
+}
+.scorex
+{
+    height: 200px;
+    margin-top: 50px;
+    text-align: center;
+}
+.change
+{
+    display: inline;
+    text-align: center;
+}
